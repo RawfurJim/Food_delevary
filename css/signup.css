@@ -1,0 +1,30 @@
+body{
+	background-color: black;
+}
+.sign{
+	height: 500px;
+	width: 300px;
+	margin: 0 auto;
+	padding-top:30px;
+
+	background-color: rgb(112, 172, 224);
+	text-align: center;
+
+
+}
+input{
+	border-radius: 25px;
+	padding: 5px;
+	margin: 10px;
+	margin-left: 30px;
+	text-align: center;
+}
+p{
+	 border-radius: 25px;
+	background-color: rgb(191, 8, 44);
+
+	margin: 50px;
+	margin-left: 70px;
+	margin-right: 70px;
+	padding: 20px;
+}
